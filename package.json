@@ -1,0 +1,22 @@
+{
+  "name": "surveyapp",
+  "version": "1.0.0",
+  "description": "Survey App with Node and React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinddoan/surveyApp.git"
+  },
+  "author": "Dustin Doan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustinddoan/surveyApp/issues"
+  },
+  "homepage": "https://github.com/dustinddoan/surveyApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
